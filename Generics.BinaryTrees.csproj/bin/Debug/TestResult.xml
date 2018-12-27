@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="Generics.BinaryTree.exe" fullname="C:/Users/filepc/Desktop/ulearn/Generics.BinaryTrees.csproj/bin/Debug/Generics.BinaryTree.exe" testcasecount="8" result="Passed" start-time="2018-11-17 12:19:44Z" end-time="2018-11-17 12:19:45Z" duration="0.614899" total="8" passed="8" failed="0" inconclusive="0" skipped="0" asserts="10" random-seed="1875204976">
+  <command-line><![CDATA["C:\Users\filepc\Desktop\ulearn\Generics.BinaryTrees.csproj\bin\Debug\Generics.BinaryTree.exe" ]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1009" name="Generics.BinaryTree.exe" fullname="C:/Users/filepc/Desktop/ulearn/Generics.BinaryTrees.csproj/bin/Debug/Generics.BinaryTree.exe" runstate="Runnable" testcasecount="8" result="Passed" start-time="2018-11-17 12:19:44Z" end-time="2018-11-17 12:19:45Z" duration="0.614899" total="8" passed="8" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="10">
+    <environment framework-version="3.6.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\filepc\Desktop\ulearn\Generics.BinaryTrees.csproj\bin\Debug" machine-name="MAX-PC" user="filepc" user-domain="MAX-PC" culture="ru-RU" uiculture="ru-RU" os-architecture="x86" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\Users\filepc\Desktop\ulearn\Generics.BinaryTrees.csproj\bin\Debug" />
+      <setting name="NumberOfTestWorkers" value="8" />
+    </settings>
+    <properties>
+      <property name="_PID" value="2572" />
+      <property name="_APPDOMAIN" value="Generics.BinaryTree.exe" />
+    </properties>
+    <test-suite type="TestSuite" id="1010" name="Generics" fullname="Generics" runstate="Runnable" testcasecount="8" result="Passed" start-time="2018-11-17 12:19:44Z" end-time="2018-11-17 12:19:45Z" duration="0.605483" total="8" passed="8" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="10">
+      <test-suite type="TestSuite" id="1011" name="BinaryTrees" fullname="Generics.BinaryTrees" runstate="Runnable" testcasecount="8" result="Passed" start-time="2018-11-17 12:19:45Z" end-time="2018-11-17 12:19:45Z" duration="0.602583" total="8" passed="8" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="10">
+        <test-suite type="TestFixture" id="1000" name="BinaryTree_should" fullname="Generics.BinaryTrees.BinaryTree_should" classname="Generics.BinaryTrees.BinaryTree_should" runstate="Runnable" testcasecount="8" result="Passed" start-time="2018-11-17 12:19:45Z" end-time="2018-11-17 12:19:45Z" duration="0.598209" total="8" passed="8" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="10">
+          <test-case id="1001" name="BeEmptyWhenCreated" fullname="Generics.BinaryTrees.BinaryTree_should.BeEmptyWhenCreated" methodname="BeEmptyWhenCreated" classname="Generics.BinaryTrees.BinaryTree_should" runstate="Runnable" seed="2023911371" result="Passed" start-time="2018-11-17 12:19:45Z" end-time="2018-11-17 12:19:45Z" duration="0.013360" asserts="1" />
+          <test-case id="1007" name="CanStoreDefaultValueOfT" fullname="Generics.BinaryTrees.BinaryTree_should.CanStoreDefaultValueOfT" methodname="CanStoreDefaultValueOfT" classname="Generics.BinaryTrees.BinaryTree_should" runstate="Runnable" seed="443228452" result="Passed" start-time="2018-11-17 12:19:45Z" end-time="2018-11-17 12:19:45Z" duration="0.002296" asserts="1" />
+          <test-case id="1008" name="EnumerationIsLazy" fullname="Generics.BinaryTrees.BinaryTree_should.EnumerationIsLazy" methodname="EnumerationIsLazy" classname="Generics.BinaryTrees.BinaryTree_should" runstate="Runnable" seed="561464012" result="Passed" start-time="2018-11-17 12:19:45Z" end-time="2018-11-17 12:19:45Z" duration="0.552833" asserts="0" />
+          <test-case id="1005" name="InitializeFromAnArrayAndSort1" fullname="Generics.BinaryTrees.BinaryTree_should.InitializeFromAnArrayAndSort1" methodname="InitializeFromAnArrayAndSort1" classname="Generics.BinaryTrees.BinaryTree_should" runstate="Runnable" seed="2062030613" result="Passed" start-time="2018-11-17 12:19:45Z" end-time="2018-11-17 12:19:45Z" duration="0.000297" asserts="1" />
+          <test-case id="1006" name="InitializeFromAnArrayAndSort2" fullname="Generics.BinaryTrees.BinaryTree_should.InitializeFromAnArrayAndSort2" methodname="InitializeFromAnArrayAndSort2" classname="Generics.BinaryTrees.BinaryTree_should" runstate="Runnable" seed="712860832" result="Passed" start-time="2018-11-17 12:19:45Z" end-time="2018-11-17 12:19:45Z" duration="0.000270" asserts="1" />
+          <test-case id="1003" name="PlaceEqualElementToLeft" fullname="Generics.BinaryTrees.BinaryTree_should.PlaceEqualElementToLeft" methodname="PlaceEqualElementToLeft" classname="Generics.BinaryTrees.BinaryTree_should" runstate="Runnable" seed="761432966" result="Passed" start-time="2018-11-17 12:19:45Z" end-time="2018-11-17 12:19:45Z" duration="0.000379" asserts="2" />
+          <test-case id="1004" name="PlaceGreaterElementToRight" fullname="Generics.BinaryTrees.BinaryTree_should.PlaceGreaterElementToRight" methodname="PlaceGreaterElementToRight" classname="Generics.BinaryTrees.BinaryTree_should" runstate="Runnable" seed="1042060166" result="Passed" start-time="2018-11-17 12:19:45Z" end-time="2018-11-17 12:19:45Z" duration="0.000185" asserts="2" />
+          <test-case id="1002" name="PlaceLesserElementToLeft" fullname="Generics.BinaryTrees.BinaryTree_should.PlaceLesserElementToLeft" methodname="PlaceLesserElementToLeft" classname="Generics.BinaryTrees.BinaryTree_should" runstate="Runnable" seed="756788661" result="Passed" start-time="2018-11-17 12:19:45Z" end-time="2018-11-17 12:19:45Z" duration="0.000235" asserts="2" />
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

@@ -1,0 +1,9 @@
+C:\Users\filepc\Desktop\ulearn\Memory.API.csproj\bin\Debug\Memory.API.exe.config
+C:\Users\filepc\Desktop\ulearn\Memory.API.csproj\bin\Debug\Memory.API.exe
+C:\Users\filepc\Desktop\ulearn\Memory.API.csproj\bin\Debug\Memory.API.pdb
+C:\Users\filepc\Desktop\ulearn\Memory.API.csproj\bin\Debug\nunit.framework.dll
+C:\Users\filepc\Desktop\ulearn\Memory.API.csproj\bin\Debug\nunitlite.dll
+C:\Users\filepc\Desktop\ulearn\Memory.API.csproj\obj\Debug\Memory.API.csprojResolveAssemblyReference.cache
+C:\Users\filepc\Desktop\ulearn\Memory.API.csproj\obj\Debug\Memory.API.csproj.CoreCompileInputs.cache
+C:\Users\filepc\Desktop\ulearn\Memory.API.csproj\obj\Debug\Memory.API.exe
+C:\Users\filepc\Desktop\ulearn\Memory.API.csproj\obj\Debug\Memory.API.pdb

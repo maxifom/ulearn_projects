@@ -1,0 +1,9 @@
+C:\Users\filepc\Desktop\ulearn\Delegates.Observers.csproj\bin\Debug\Delegates.Observers.exe.config
+C:\Users\filepc\Desktop\ulearn\Delegates.Observers.csproj\bin\Debug\Delegates.Observers.exe
+C:\Users\filepc\Desktop\ulearn\Delegates.Observers.csproj\bin\Debug\Delegates.Observers.pdb
+C:\Users\filepc\Desktop\ulearn\Delegates.Observers.csproj\bin\Debug\nunit.framework.dll
+C:\Users\filepc\Desktop\ulearn\Delegates.Observers.csproj\bin\Debug\nunitlite.dll
+C:\Users\filepc\Desktop\ulearn\Delegates.Observers.csproj\obj\Debug\Delegates.Observers.csprojResolveAssemblyReference.cache
+C:\Users\filepc\Desktop\ulearn\Delegates.Observers.csproj\obj\Debug\Delegates.Observers.csproj.CoreCompileInputs.cache
+C:\Users\filepc\Desktop\ulearn\Delegates.Observers.csproj\obj\Debug\Delegates.Observers.exe
+C:\Users\filepc\Desktop\ulearn\Delegates.Observers.csproj\obj\Debug\Delegates.Observers.pdb

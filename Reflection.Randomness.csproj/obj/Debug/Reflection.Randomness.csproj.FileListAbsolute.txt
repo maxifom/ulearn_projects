@@ -1,0 +1,9 @@
+C:\Users\filepc\Desktop\ulearn\Reflection.Randomness.csproj\bin\Debug\Reflection.Randomness.exe.config
+C:\Users\filepc\Desktop\ulearn\Reflection.Randomness.csproj\bin\Debug\Reflection.Randomness.exe
+C:\Users\filepc\Desktop\ulearn\Reflection.Randomness.csproj\bin\Debug\Reflection.Randomness.pdb
+C:\Users\filepc\Desktop\ulearn\Reflection.Randomness.csproj\bin\Debug\nunit.framework.dll
+C:\Users\filepc\Desktop\ulearn\Reflection.Randomness.csproj\bin\Debug\nunitlite.dll
+C:\Users\filepc\Desktop\ulearn\Reflection.Randomness.csproj\obj\Debug\Reflection.Randomness.csprojResolveAssemblyReference.cache
+C:\Users\filepc\Desktop\ulearn\Reflection.Randomness.csproj\obj\Debug\Reflection.Randomness.csproj.CoreCompileInputs.cache
+C:\Users\filepc\Desktop\ulearn\Reflection.Randomness.csproj\obj\Debug\Reflection.Randomness.exe
+C:\Users\filepc\Desktop\ulearn\Reflection.Randomness.csproj\obj\Debug\Reflection.Randomness.pdb

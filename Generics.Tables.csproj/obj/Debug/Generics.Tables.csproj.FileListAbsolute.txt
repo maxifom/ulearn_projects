@@ -1,0 +1,9 @@
+C:\Users\filepc\Desktop\ulearn\Generics.Tables.csproj\obj\Debug\Generics.Tables.csprojResolveAssemblyReference.cache
+C:\Users\filepc\Desktop\ulearn\Generics.Tables.csproj\obj\Debug\Generics.Tables.csproj.CoreCompileInputs.cache
+C:\Users\filepc\Desktop\ulearn\Generics.Tables.csproj\bin\Debug\Generics.Table.exe.config
+C:\Users\filepc\Desktop\ulearn\Generics.Tables.csproj\bin\Debug\Generics.Table.exe
+C:\Users\filepc\Desktop\ulearn\Generics.Tables.csproj\bin\Debug\Generics.Table.pdb
+C:\Users\filepc\Desktop\ulearn\Generics.Tables.csproj\bin\Debug\nunit.framework.dll
+C:\Users\filepc\Desktop\ulearn\Generics.Tables.csproj\bin\Debug\nunitlite.dll
+C:\Users\filepc\Desktop\ulearn\Generics.Tables.csproj\obj\Debug\Generics.Table.exe
+C:\Users\filepc\Desktop\ulearn\Generics.Tables.csproj\obj\Debug\Generics.Table.pdb

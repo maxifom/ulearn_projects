@@ -1,0 +1,8 @@
+C:\Users\filepc\Desktop\ulearn\Incapsulation.EnterpriseTask.csproj\bin\Debug\Incapsulation.Enterprise.dll.config
+C:\Users\filepc\Desktop\ulearn\Incapsulation.EnterpriseTask.csproj\bin\Debug\Incapsulation.Enterprise.dll
+C:\Users\filepc\Desktop\ulearn\Incapsulation.EnterpriseTask.csproj\bin\Debug\Incapsulation.Enterprise.pdb
+C:\Users\filepc\Desktop\ulearn\Incapsulation.EnterpriseTask.csproj\bin\Debug\nunit.framework.dll
+C:\Users\filepc\Desktop\ulearn\Incapsulation.EnterpriseTask.csproj\obj\Debug\Incapsulation.EnterpriseTask.csprojResolveAssemblyReference.cache
+C:\Users\filepc\Desktop\ulearn\Incapsulation.EnterpriseTask.csproj\obj\Debug\Incapsulation.EnterpriseTask.csproj.CoreCompileInputs.cache
+C:\Users\filepc\Desktop\ulearn\Incapsulation.EnterpriseTask.csproj\obj\Debug\Incapsulation.Enterprise.dll
+C:\Users\filepc\Desktop\ulearn\Incapsulation.EnterpriseTask.csproj\obj\Debug\Incapsulation.Enterprise.pdb

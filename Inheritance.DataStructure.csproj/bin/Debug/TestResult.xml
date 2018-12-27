@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="Inheritance.DataStructure.exe" fullname="C:/Users/filepc/Desktop/ulearn/Inheritance.DataStructure.csproj/bin/Debug/Inheritance.DataStructure.exe" testcasecount="5" result="Passed" start-time="2018-11-15 13:26:19Z" end-time="2018-11-15 13:26:19Z" duration="0.054432" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="132" random-seed="1833243981">
+  <command-line><![CDATA["C:\Users\filepc\Desktop\ulearn\Inheritance.DataStructure.csproj\bin\Debug\Inheritance.DataStructure.exe" ]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1006" name="Inheritance.DataStructure.exe" fullname="C:/Users/filepc/Desktop/ulearn/Inheritance.DataStructure.csproj/bin/Debug/Inheritance.DataStructure.exe" runstate="Runnable" testcasecount="5" result="Passed" start-time="2018-11-15 13:26:19Z" end-time="2018-11-15 13:26:19Z" duration="0.054432" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="132">
+    <environment framework-version="3.6.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\filepc\Desktop\ulearn\Inheritance.DataStructure.csproj\bin\Debug" machine-name="MAX-PC" user="filepc" user-domain="MAX-PC" culture="ru-RU" uiculture="ru-RU" os-architecture="x86" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\Users\filepc\Desktop\ulearn\Inheritance.DataStructure.csproj\bin\Debug" />
+      <setting name="NumberOfTestWorkers" value="8" />
+    </settings>
+    <properties>
+      <property name="_PID" value="12084" />
+      <property name="_APPDOMAIN" value="Inheritance.DataStructure.exe" />
+    </properties>
+    <test-suite type="TestSuite" id="1007" name="Inheritance" fullname="Inheritance" runstate="Runnable" testcasecount="5" result="Passed" start-time="2018-11-15 13:26:19Z" end-time="2018-11-15 13:26:19Z" duration="0.045048" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="132">
+      <test-suite type="TestSuite" id="1008" name="DataStructure" fullname="Inheritance.DataStructure" runstate="Runnable" testcasecount="5" result="Passed" start-time="2018-11-15 13:26:19Z" end-time="2018-11-15 13:26:19Z" duration="0.041672" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="132">
+        <test-suite type="TestFixture" id="1000" name="Category_should" fullname="Inheritance.DataStructure.Category_should" classname="Inheritance.DataStructure.Category_should" runstate="Runnable" testcasecount="5" result="Passed" start-time="2018-11-15 13:26:19Z" end-time="2018-11-15 13:26:19Z" duration="0.037090" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="132">
+          <test-case id="1002" name="ImplementCompareToCorrectly" fullname="Inheritance.DataStructure.Category_should.ImplementCompareToCorrectly" methodname="ImplementCompareToCorrectly" classname="Inheritance.DataStructure.Category_should" runstate="Runnable" seed="2072971942" result="Passed" start-time="2018-11-15 13:26:19Z" end-time="2018-11-15 13:26:19Z" duration="0.011319" asserts="17" />
+          <test-case id="1001" name="ImplementEqualsCorrectly" fullname="Inheritance.DataStructure.Category_should.ImplementEqualsCorrectly" methodname="ImplementEqualsCorrectly" classname="Inheritance.DataStructure.Category_should" runstate="Runnable" seed="2031736212" result="Passed" start-time="2018-11-15 13:26:19Z" end-time="2018-11-15 13:26:19Z" duration="0.002059" asserts="17" />
+          <test-case id="1004" name="ImplementIComparableInterface" fullname="Inheritance.DataStructure.Category_should.ImplementIComparableInterface" methodname="ImplementIComparableInterface" classname="Inheritance.DataStructure.Category_should" runstate="Runnable" seed="1174067685" result="Passed" start-time="2018-11-15 13:26:19Z" end-time="2018-11-15 13:26:19Z" duration="0.000229" asserts="1" />
+          <test-case id="1003" name="ImplementOperatorsCorrectly" fullname="Inheritance.DataStructure.Category_should.ImplementOperatorsCorrectly" methodname="ImplementOperatorsCorrectly" classname="Inheritance.DataStructure.Category_should" runstate="Runnable" seed="1050565397" result="Passed" start-time="2018-11-15 13:26:19Z" end-time="2018-11-15 13:26:19Z" duration="0.001603" asserts="96" />
+          <test-case id="1005" name="ImplementToStringCorrectly" fullname="Inheritance.DataStructure.Category_should.ImplementToStringCorrectly" methodname="ImplementToStringCorrectly" classname="Inheritance.DataStructure.Category_should" runstate="Runnable" seed="2020219458" result="Passed" start-time="2018-11-15 13:26:19Z" end-time="2018-11-15 13:26:19Z" duration="0.000535" asserts="1" />
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

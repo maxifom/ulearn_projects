@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance.MapObjects", "Inheritance.MapObjects.csproj", "{036E786D-084D-4978-AE5F-B28A1DDCEB25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{036E786D-084D-4978-AE5F-B28A1DDCEB25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{036E786D-084D-4978-AE5F-B28A1DDCEB25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{036E786D-084D-4978-AE5F-B28A1DDCEB25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{036E786D-084D-4978-AE5F-B28A1DDCEB25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C0D79A4-B261-41B2-B211-2C3D4AC43C9F}
+	EndGlobalSection
+EndGlobal

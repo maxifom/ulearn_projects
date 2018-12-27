@@ -1,0 +1,9 @@
+C:\Users\filepc\Desktop\ulearn\Incapsulation.Weights.csproj\obj\Debug\Incapsulation.Weights.csprojResolveAssemblyReference.cache
+C:\Users\filepc\Desktop\ulearn\Incapsulation.Weights.csproj\obj\Debug\Incapsulation.Weights.csproj.CoreCompileInputs.cache
+C:\Users\filepc\Desktop\ulearn\Incapsulation.Weights.csproj\bin\Debug\Incapsulation.Weights.exe.config
+C:\Users\filepc\Desktop\ulearn\Incapsulation.Weights.csproj\bin\Debug\Incapsulation.Weights.exe
+C:\Users\filepc\Desktop\ulearn\Incapsulation.Weights.csproj\bin\Debug\Incapsulation.Weights.pdb
+C:\Users\filepc\Desktop\ulearn\Incapsulation.Weights.csproj\bin\Debug\nunit.framework.dll
+C:\Users\filepc\Desktop\ulearn\Incapsulation.Weights.csproj\bin\Debug\nunitlite.dll
+C:\Users\filepc\Desktop\ulearn\Incapsulation.Weights.csproj\obj\Debug\Incapsulation.Weights.exe
+C:\Users\filepc\Desktop\ulearn\Incapsulation.Weights.csproj\obj\Debug\Incapsulation.Weights.pdb

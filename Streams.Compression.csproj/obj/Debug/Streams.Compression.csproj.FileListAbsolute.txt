@@ -1,0 +1,9 @@
+C:\Users\filepc\Desktop\ulearn\Streams.Compression.csproj\bin\Debug\Streams.Compression.exe.config
+C:\Users\filepc\Desktop\ulearn\Streams.Compression.csproj\bin\Debug\Streams.Compression.exe
+C:\Users\filepc\Desktop\ulearn\Streams.Compression.csproj\bin\Debug\Streams.Compression.pdb
+C:\Users\filepc\Desktop\ulearn\Streams.Compression.csproj\bin\Debug\nunit.framework.dll
+C:\Users\filepc\Desktop\ulearn\Streams.Compression.csproj\bin\Debug\nunitlite.dll
+C:\Users\filepc\Desktop\ulearn\Streams.Compression.csproj\obj\Debug\Streams.Compression.csprojResolveAssemblyReference.cache
+C:\Users\filepc\Desktop\ulearn\Streams.Compression.csproj\obj\Debug\Streams.Compression.csproj.CoreCompileInputs.cache
+C:\Users\filepc\Desktop\ulearn\Streams.Compression.csproj\obj\Debug\Streams.Compression.exe
+C:\Users\filepc\Desktop\ulearn\Streams.Compression.csproj\obj\Debug\Streams.Compression.pdb

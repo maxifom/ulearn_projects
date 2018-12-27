@@ -1,0 +1,9 @@
+C:\Users\filepc\Desktop\ulearn\Delegates.Reports.csproj\bin\Debug\Delegates.Reports.exe.config
+C:\Users\filepc\Desktop\ulearn\Delegates.Reports.csproj\bin\Debug\Delegates.Reports.exe
+C:\Users\filepc\Desktop\ulearn\Delegates.Reports.csproj\bin\Debug\Delegates.Reports.pdb
+C:\Users\filepc\Desktop\ulearn\Delegates.Reports.csproj\bin\Debug\nunit.framework.dll
+C:\Users\filepc\Desktop\ulearn\Delegates.Reports.csproj\bin\Debug\nunitlite.dll
+C:\Users\filepc\Desktop\ulearn\Delegates.Reports.csproj\obj\Debug\Delegates.Reports.csprojResolveAssemblyReference.cache
+C:\Users\filepc\Desktop\ulearn\Delegates.Reports.csproj\obj\Debug\Delegates.Reports.csproj.CoreCompileInputs.cache
+C:\Users\filepc\Desktop\ulearn\Delegates.Reports.csproj\obj\Debug\Delegates.Reports.exe
+C:\Users\filepc\Desktop\ulearn\Delegates.Reports.csproj\obj\Debug\Delegates.Reports.pdb

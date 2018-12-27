@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="Delegates.TreeTraversal.exe" fullname="C:/Users/filepc/Desktop/ulearn/Delegates.TreeTraversal.csproj/bin/Debug/Delegates.TreeTraversal.exe" testcasecount="3" result="Passed" start-time="2018-11-24 19:02:46Z" end-time="2018-11-24 19:02:46Z" duration="0.130517" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="3" random-seed="1735562357">
+  <command-line><![CDATA["C:\Users\filepc\Desktop\ulearn\Delegates.TreeTraversal.csproj\bin\Debug\Delegates.TreeTraversal.exe" ]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1004" name="Delegates.TreeTraversal.exe" fullname="C:/Users/filepc/Desktop/ulearn/Delegates.TreeTraversal.csproj/bin/Debug/Delegates.TreeTraversal.exe" runstate="Runnable" testcasecount="3" result="Passed" start-time="2018-11-24 19:02:46Z" end-time="2018-11-24 19:02:46Z" duration="0.130517" total="3" passed="3" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="3">
+    <environment framework-version="3.6.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\filepc\Desktop\ulearn\Delegates.TreeTraversal.csproj\bin\Debug" machine-name="MAX-PC" user="filepc" user-domain="MAX-PC" culture="ru-RU" uiculture="ru-RU" os-architecture="x86" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\Users\filepc\Desktop\ulearn\Delegates.TreeTraversal.csproj\bin\Debug" />
+      <setting name="NumberOfTestWorkers" value="8" />
+    </settings>
+    <properties>
+      <property name="_PID" value="15660" />
+      <property name="_APPDOMAIN" value="Delegates.TreeTraversal.exe" />
+    </properties>
+    <test-suite type="TestSuite" id="1005" name="Delegates" fullname="Delegates" runstate="Runnable" testcasecount="3" result="Passed" start-time="2018-11-24 19:02:46Z" end-time="2018-11-24 19:02:46Z" duration="0.120101" total="3" passed="3" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="3">
+      <test-suite type="TestSuite" id="1006" name="TreeTraversal" fullname="Delegates.TreeTraversal" runstate="Runnable" testcasecount="3" result="Passed" start-time="2018-11-24 19:02:46Z" end-time="2018-11-24 19:02:46Z" duration="0.117490" total="3" passed="3" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="3">
+        <test-suite type="TestFixture" id="1000" name="Traversal_should" fullname="Delegates.TreeTraversal.Traversal_should" classname="Delegates.TreeTraversal.Traversal_should" runstate="Runnable" testcasecount="3" result="Passed" start-time="2018-11-24 19:02:46Z" end-time="2018-11-24 19:02:46Z" duration="0.099395" total="3" passed="3" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="3">
+          <test-case id="1001" name="GetBinaryTreeValues" fullname="Delegates.TreeTraversal.Traversal_should.GetBinaryTreeValues" methodname="GetBinaryTreeValues" classname="Delegates.TreeTraversal.Traversal_should" runstate="Runnable" seed="1820540248" result="Passed" start-time="2018-11-24 19:02:46Z" end-time="2018-11-24 19:02:46Z" duration="0.018259" asserts="1" />
+          <test-case id="1002" name="GetEndJobs" fullname="Delegates.TreeTraversal.Traversal_should.GetEndJobs" methodname="GetEndJobs" classname="Delegates.TreeTraversal.Traversal_should" runstate="Runnable" seed="1433783201" result="Passed" start-time="2018-11-24 19:02:46Z" end-time="2018-11-24 19:02:46Z" duration="0.002499" asserts="1" />
+          <test-case id="1003" name="GetProducts" fullname="Delegates.TreeTraversal.Traversal_should.GetProducts" methodname="GetProducts" classname="Delegates.TreeTraversal.Traversal_should" runstate="Runnable" seed="1110069397" result="Passed" start-time="2018-11-24 19:02:46Z" end-time="2018-11-24 19:02:46Z" duration="0.001768" asserts="1" />
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

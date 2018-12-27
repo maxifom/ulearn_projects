@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="Delegates.Observers.exe" fullname="C:/Users/filepc/Desktop/ulearn/Delegates.Observers.csproj/bin/Debug/Delegates.Observers.exe" testcasecount="2" result="Passed" start-time="2018-11-24 18:16:06Z" end-time="2018-11-24 18:16:06Z" duration="0.041430" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="2" random-seed="1036041452">
+  <command-line><![CDATA["C:\Users\filepc\Desktop\ulearn\Delegates.Observers.csproj\bin\Debug\Delegates.Observers.exe" ]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1003" name="Delegates.Observers.exe" fullname="C:/Users/filepc/Desktop/ulearn/Delegates.Observers.csproj/bin/Debug/Delegates.Observers.exe" runstate="Runnable" testcasecount="2" result="Passed" start-time="2018-11-24 18:16:06Z" end-time="2018-11-24 18:16:06Z" duration="0.041430" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="2">
+    <environment framework-version="3.6.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\filepc\Desktop\ulearn\Delegates.Observers.csproj\bin\Debug" machine-name="MAX-PC" user="filepc" user-domain="MAX-PC" culture="ru-RU" uiculture="ru-RU" os-architecture="x86" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\Users\filepc\Desktop\ulearn\Delegates.Observers.csproj\bin\Debug" />
+      <setting name="NumberOfTestWorkers" value="8" />
+    </settings>
+    <properties>
+      <property name="_PID" value="14360" />
+      <property name="_APPDOMAIN" value="Delegates.Observers.exe" />
+    </properties>
+    <test-suite type="TestSuite" id="1004" name="Delegates" fullname="Delegates" runstate="Runnable" testcasecount="2" result="Passed" start-time="2018-11-24 18:16:06Z" end-time="2018-11-24 18:16:06Z" duration="0.031523" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="2">
+      <test-suite type="TestSuite" id="1005" name="Observers" fullname="Delegates.Observers" runstate="Runnable" testcasecount="2" result="Passed" start-time="2018-11-24 18:16:06Z" end-time="2018-11-24 18:16:06Z" duration="0.028780" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="2">
+        <test-suite type="TestFixture" id="1000" name="ObservableStack_Tests" fullname="Delegates.Observers.ObservableStack_Tests" classname="Delegates.Observers.ObservableStack_Tests" runstate="Runnable" testcasecount="2" result="Passed" start-time="2018-11-24 18:16:06Z" end-time="2018-11-24 18:16:06Z" duration="0.024054" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="2">
+          <test-case id="1001" name="Log_ShouldBeEmpty_AfterCreation" fullname="Delegates.Observers.ObservableStack_Tests.Log_ShouldBeEmpty_AfterCreation" methodname="Log_ShouldBeEmpty_AfterCreation" classname="Delegates.Observers.ObservableStack_Tests" runstate="Runnable" seed="1234400747" result="Passed" start-time="2018-11-24 18:16:06Z" end-time="2018-11-24 18:16:06Z" duration="0.010844" asserts="1" />
+          <test-case id="1002" name="Log_ShouldContainAllOperations" fullname="Delegates.Observers.ObservableStack_Tests.Log_ShouldContainAllOperations" methodname="Log_ShouldContainAllOperations" classname="Delegates.Observers.ObservableStack_Tests" runstate="Runnable" seed="1946526299" result="Passed" start-time="2018-11-24 18:16:06Z" end-time="2018-11-24 18:16:06Z" duration="0.001608" asserts="1" />
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

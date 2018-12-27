@@ -1,0 +1,9 @@
+C:\Users\filepc\Desktop\ulearn\Inheritance.Geometry.csproj\bin\Debug\Inheritance.Virtual.exe.config
+C:\Users\filepc\Desktop\ulearn\Inheritance.Geometry.csproj\bin\Debug\Inheritance.Virtual.exe
+C:\Users\filepc\Desktop\ulearn\Inheritance.Geometry.csproj\bin\Debug\Inheritance.Virtual.pdb
+C:\Users\filepc\Desktop\ulearn\Inheritance.Geometry.csproj\bin\Debug\nunit.framework.dll
+C:\Users\filepc\Desktop\ulearn\Inheritance.Geometry.csproj\bin\Debug\nunitlite.dll
+C:\Users\filepc\Desktop\ulearn\Inheritance.Geometry.csproj\obj\Debug\Inheritance.Geometry.csprojResolveAssemblyReference.cache
+C:\Users\filepc\Desktop\ulearn\Inheritance.Geometry.csproj\obj\Debug\Inheritance.Geometry.csproj.CoreCompileInputs.cache
+C:\Users\filepc\Desktop\ulearn\Inheritance.Geometry.csproj\obj\Debug\Inheritance.Virtual.exe
+C:\Users\filepc\Desktop\ulearn\Inheritance.Geometry.csproj\obj\Debug\Inheritance.Virtual.pdb

@@ -1,0 +1,9 @@
+C:\Users\filepc\Desktop\ulearn\Generics.BinaryTrees.csproj\obj\Debug\Generics.BinaryTrees.csprojResolveAssemblyReference.cache
+C:\Users\filepc\Desktop\ulearn\Generics.BinaryTrees.csproj\obj\Debug\Generics.BinaryTrees.csproj.CoreCompileInputs.cache
+C:\Users\filepc\Desktop\ulearn\Generics.BinaryTrees.csproj\bin\Debug\Generics.BinaryTree.exe.config
+C:\Users\filepc\Desktop\ulearn\Generics.BinaryTrees.csproj\bin\Debug\Generics.BinaryTree.exe
+C:\Users\filepc\Desktop\ulearn\Generics.BinaryTrees.csproj\bin\Debug\Generics.BinaryTree.pdb
+C:\Users\filepc\Desktop\ulearn\Generics.BinaryTrees.csproj\bin\Debug\nunit.framework.dll
+C:\Users\filepc\Desktop\ulearn\Generics.BinaryTrees.csproj\bin\Debug\nunitlite.dll
+C:\Users\filepc\Desktop\ulearn\Generics.BinaryTrees.csproj\obj\Debug\Generics.BinaryTree.exe
+C:\Users\filepc\Desktop\ulearn\Generics.BinaryTrees.csproj\obj\Debug\Generics.BinaryTree.pdb

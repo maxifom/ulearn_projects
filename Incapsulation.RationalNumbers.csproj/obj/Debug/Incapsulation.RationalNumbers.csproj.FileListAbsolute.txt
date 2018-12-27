@@ -1,0 +1,9 @@
+C:\Users\filepc\Desktop\ulearn\Incapsulation.RationalNumbers.csproj\obj\Debug\Incapsulation.RationalNumbers.csprojResolveAssemblyReference.cache
+C:\Users\filepc\Desktop\ulearn\Incapsulation.RationalNumbers.csproj\obj\Debug\Incapsulation.RationalNumbers.csproj.CoreCompileInputs.cache
+C:\Users\filepc\Desktop\ulearn\Incapsulation.RationalNumbers.csproj\bin\Debug\Incapsulation.RationalNumbers.exe.config
+C:\Users\filepc\Desktop\ulearn\Incapsulation.RationalNumbers.csproj\bin\Debug\Incapsulation.RationalNumbers.exe
+C:\Users\filepc\Desktop\ulearn\Incapsulation.RationalNumbers.csproj\bin\Debug\Incapsulation.RationalNumbers.pdb
+C:\Users\filepc\Desktop\ulearn\Incapsulation.RationalNumbers.csproj\bin\Debug\nunit.framework.dll
+C:\Users\filepc\Desktop\ulearn\Incapsulation.RationalNumbers.csproj\bin\Debug\nunitlite.dll
+C:\Users\filepc\Desktop\ulearn\Incapsulation.RationalNumbers.csproj\obj\Debug\Incapsulation.RationalNumbers.exe
+C:\Users\filepc\Desktop\ulearn\Incapsulation.RationalNumbers.csproj\obj\Debug\Incapsulation.RationalNumbers.pdb

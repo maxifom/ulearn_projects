@@ -1,0 +1,10 @@
+C:\Users\filepc\Desktop\ulearn\Incapsulation.Failures.csproj\bin\Debug\ReportMaker.cs
+C:\Users\filepc\Desktop\ulearn\Incapsulation.Failures.csproj\bin\Debug\Incapsulation.Failures.exe.config
+C:\Users\filepc\Desktop\ulearn\Incapsulation.Failures.csproj\bin\Debug\Incapsulation.Failures.exe
+C:\Users\filepc\Desktop\ulearn\Incapsulation.Failures.csproj\bin\Debug\Incapsulation.Failures.pdb
+C:\Users\filepc\Desktop\ulearn\Incapsulation.Failures.csproj\bin\Debug\nunit.framework.dll
+C:\Users\filepc\Desktop\ulearn\Incapsulation.Failures.csproj\bin\Debug\nunitlite.dll
+C:\Users\filepc\Desktop\ulearn\Incapsulation.Failures.csproj\obj\Debug\Incapsulation.Failures.csprojResolveAssemblyReference.cache
+C:\Users\filepc\Desktop\ulearn\Incapsulation.Failures.csproj\obj\Debug\Incapsulation.Failures.csproj.CoreCompileInputs.cache
+C:\Users\filepc\Desktop\ulearn\Incapsulation.Failures.csproj\obj\Debug\Incapsulation.Failures.exe
+C:\Users\filepc\Desktop\ulearn\Incapsulation.Failures.csproj\obj\Debug\Incapsulation.Failures.pdb

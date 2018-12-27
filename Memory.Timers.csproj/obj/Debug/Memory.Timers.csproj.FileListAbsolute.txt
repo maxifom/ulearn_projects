@@ -1,0 +1,9 @@
+C:\Users\filepc\Desktop\ulearn\Memory.Timers.csproj\bin\Debug\Memory.Timers.exe.config
+C:\Users\filepc\Desktop\ulearn\Memory.Timers.csproj\bin\Debug\Memory.Timers.exe
+C:\Users\filepc\Desktop\ulearn\Memory.Timers.csproj\bin\Debug\Memory.Timers.pdb
+C:\Users\filepc\Desktop\ulearn\Memory.Timers.csproj\bin\Debug\nunit.framework.dll
+C:\Users\filepc\Desktop\ulearn\Memory.Timers.csproj\bin\Debug\nunitlite.dll
+C:\Users\filepc\Desktop\ulearn\Memory.Timers.csproj\obj\Debug\Memory.Timers.csprojResolveAssemblyReference.cache
+C:\Users\filepc\Desktop\ulearn\Memory.Timers.csproj\obj\Debug\Memory.Timers.csproj.CoreCompileInputs.cache
+C:\Users\filepc\Desktop\ulearn\Memory.Timers.csproj\obj\Debug\Memory.Timers.exe
+C:\Users\filepc\Desktop\ulearn\Memory.Timers.csproj\obj\Debug\Memory.Timers.pdb

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="Inheritance.MapObjects.exe" fullname="C:/Users/filepc/Desktop/ulearn/Inheritance.MapObjects.csproj/bin/Debug/Inheritance.MapObjects.exe" testcasecount="6" result="Passed" start-time="2018-11-15 14:20:28Z" end-time="2018-11-15 14:20:28Z" duration="0.052958" total="6" passed="6" failed="0" inconclusive="0" skipped="0" asserts="15" random-seed="1846384019">
+  <command-line><![CDATA["C:\Users\filepc\Desktop\ulearn\Inheritance.MapObjects.csproj\bin\Debug\Inheritance.MapObjects.exe" ]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1007" name="Inheritance.MapObjects.exe" fullname="C:/Users/filepc/Desktop/ulearn/Inheritance.MapObjects.csproj/bin/Debug/Inheritance.MapObjects.exe" runstate="Runnable" testcasecount="6" result="Passed" start-time="2018-11-15 14:20:28Z" end-time="2018-11-15 14:20:28Z" duration="0.052958" total="6" passed="6" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="15">
+    <environment framework-version="3.6.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\filepc\Desktop\ulearn\Inheritance.MapObjects.csproj\bin\Debug" machine-name="MAX-PC" user="filepc" user-domain="MAX-PC" culture="ru-RU" uiculture="ru-RU" os-architecture="x86" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\Users\filepc\Desktop\ulearn\Inheritance.MapObjects.csproj\bin\Debug" />
+      <setting name="NumberOfTestWorkers" value="8" />
+    </settings>
+    <properties>
+      <property name="_PID" value="9648" />
+      <property name="_APPDOMAIN" value="Inheritance.MapObjects.exe" />
+    </properties>
+    <test-suite type="TestSuite" id="1008" name="Inheritance" fullname="Inheritance" runstate="Runnable" testcasecount="6" result="Passed" start-time="2018-11-15 14:20:28Z" end-time="2018-11-15 14:20:28Z" duration="0.043565" total="6" passed="6" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="15">
+      <test-suite type="TestSuite" id="1009" name="MapObjects" fullname="Inheritance.MapObjects" runstate="Runnable" testcasecount="6" result="Passed" start-time="2018-11-15 14:20:28Z" end-time="2018-11-15 14:20:28Z" duration="0.040585" total="6" passed="6" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="15">
+        <test-suite type="TestFixture" id="1000" name="Player_should" fullname="Inheritance.MapObjects.Player_should" classname="Inheritance.MapObjects.Player_should" runstate="Runnable" testcasecount="6" result="Passed" start-time="2018-11-15 14:20:28Z" end-time="2018-11-15 14:20:28Z" duration="0.036190" total="6" passed="6" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="15">
+          <test-case id="1002" name="BeatWeakCreepsAndCollectTreasure" fullname="Inheritance.MapObjects.Player_should.BeatWeakCreepsAndCollectTreasure" methodname="BeatWeakCreepsAndCollectTreasure" classname="Inheritance.MapObjects.Player_should" runstate="Runnable" seed="750305255" result="Passed" start-time="2018-11-15 14:20:28Z" end-time="2018-11-15 14:20:28Z" duration="0.011814" asserts="2" />
+          <test-case id="1005" name="BeatWeakGuandAndOwnDwelling" fullname="Inheritance.MapObjects.Player_should.BeatWeakGuandAndOwnDwelling" methodname="BeatWeakGuandAndOwnDwelling" classname="Inheritance.MapObjects.Player_should" runstate="Runnable" seed="1298590926" result="Passed" start-time="2018-11-15 14:20:28Z" end-time="2018-11-15 14:20:28Z" duration="0.000701" asserts="3" />
+          <test-case id="1003" name="LoseToPowerfulCreeps" fullname="Inheritance.MapObjects.Player_should.LoseToPowerfulCreeps" methodname="LoseToPowerfulCreeps" classname="Inheritance.MapObjects.Player_should" runstate="Runnable" seed="1226970826" result="Passed" start-time="2018-11-15 14:20:28Z" end-time="2018-11-15 14:20:28Z" duration="0.000309" asserts="2" />
+          <test-case id="1006" name="LoseToPowerfuleGuand" fullname="Inheritance.MapObjects.Player_should.LoseToPowerfuleGuand" methodname="LoseToPowerfuleGuand" classname="Inheritance.MapObjects.Player_should" runstate="Runnable" seed="2045523251" result="Passed" start-time="2018-11-15 14:20:28Z" end-time="2018-11-15 14:20:28Z" duration="0.000296" asserts="3" />
+          <test-case id="1004" name="OwnDwelling" fullname="Inheritance.MapObjects.Player_should.OwnDwelling" methodname="OwnDwelling" classname="Inheritance.MapObjects.Player_should" runstate="Runnable" seed="1684326947" result="Passed" start-time="2018-11-15 14:20:28Z" end-time="2018-11-15 14:20:28Z" duration="0.000379" asserts="3" />
+          <test-case id="1001" name="TakeResources" fullname="Inheritance.MapObjects.Player_should.TakeResources" methodname="TakeResources" classname="Inheritance.MapObjects.Player_should" runstate="Runnable" seed="1811221346" result="Passed" start-time="2018-11-15 14:20:28Z" end-time="2018-11-15 14:20:28Z" duration="0.000391" asserts="2" />
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

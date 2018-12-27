@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="Generics.Robots.exe" fullname="C:/Users/filepc/Desktop/ulearn/Generics.Robots.csproj/bin/Debug/Generics.Robots.exe" testcasecount="2" result="Passed" start-time="2018-11-17 15:59:10Z" end-time="2018-11-17 15:59:10Z" duration="0.046443" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="2" random-seed="1396576619">
+  <command-line><![CDATA["C:\Users\filepc\Desktop\ulearn\Generics.Robots.csproj\bin\Debug\Generics.Robots.exe" ]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1003" name="Generics.Robots.exe" fullname="C:/Users/filepc/Desktop/ulearn/Generics.Robots.csproj/bin/Debug/Generics.Robots.exe" runstate="Runnable" testcasecount="2" result="Passed" start-time="2018-11-17 15:59:10Z" end-time="2018-11-17 15:59:10Z" duration="0.046443" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="2">
+    <environment framework-version="3.6.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\filepc\Desktop\ulearn\Generics.Robots.csproj\bin\Debug" machine-name="MAX-PC" user="filepc" user-domain="MAX-PC" culture="ru-RU" uiculture="ru-RU" os-architecture="x86" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\Users\filepc\Desktop\ulearn\Generics.Robots.csproj\bin\Debug" />
+      <setting name="NumberOfTestWorkers" value="8" />
+    </settings>
+    <properties>
+      <property name="_PID" value="7844" />
+      <property name="_APPDOMAIN" value="Generics.Robots.exe" />
+    </properties>
+    <test-suite type="TestSuite" id="1004" name="Generics" fullname="Generics" runstate="Runnable" testcasecount="2" result="Passed" start-time="2018-11-17 15:59:10Z" end-time="2018-11-17 15:59:10Z" duration="0.036536" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="2">
+      <test-suite type="TestSuite" id="1005" name="Robots" fullname="Generics.Robots" runstate="Runnable" testcasecount="2" result="Passed" start-time="2018-11-17 15:59:10Z" end-time="2018-11-17 15:59:10Z" duration="0.033666" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="2">
+        <test-suite type="TestFixture" id="1000" name="Architecture_Should" fullname="Generics.Robots.Architecture_Should" classname="Generics.Robots.Architecture_Should" runstate="Runnable" testcasecount="2" result="Passed" start-time="2018-11-17 15:59:10Z" end-time="2018-11-17 15:59:10Z" duration="0.029212" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="2">
+          <test-case id="1002" name="BeCorrectForBuilder" fullname="Generics.Robots.Architecture_Should.BeCorrectForBuilder" methodname="BeCorrectForBuilder" classname="Generics.Robots.Architecture_Should" runstate="Runnable" seed="1551096883" result="Passed" start-time="2018-11-17 15:59:10Z" end-time="2018-11-17 15:59:10Z" duration="0.014830" asserts="1" />
+          <test-case id="1001" name="BeCorrectForShooter" fullname="Generics.Robots.Architecture_Should.BeCorrectForShooter" methodname="BeCorrectForShooter" classname="Generics.Robots.Architecture_Should" runstate="Runnable" seed="444398570" result="Passed" start-time="2018-11-17 15:59:10Z" end-time="2018-11-17 15:59:10Z" duration="0.000935" asserts="1" />
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
