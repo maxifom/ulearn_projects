@@ -1,0 +1,10 @@
+C:\Users\max\Desktop\SHIT FROM ASS\FluentApi.Graph\obj\Debug\FluentApi.Graph.csprojAssemblyReference.cache
+C:\Users\max\Desktop\SHIT FROM ASS\FluentApi.Graph\obj\Debug\FluentApi.Graph.csproj.CoreCompileInputs.cache
+C:\Users\max\Desktop\SHIT FROM ASS\FluentApi.Graph\bin\Debug\FluentApi.Graph.exe.config
+C:\Users\max\Desktop\SHIT FROM ASS\FluentApi.Graph\bin\Debug\FluentApi.Graph.exe
+C:\Users\max\Desktop\SHIT FROM ASS\FluentApi.Graph\bin\Debug\FluentApi.Graph.pdb
+C:\Users\max\Desktop\SHIT FROM ASS\FluentApi.Graph\bin\Debug\nunit.framework.dll
+C:\Users\max\Desktop\SHIT FROM ASS\FluentApi.Graph\obj\Debug\FluentApi.Graph.csproj.CopyComplete
+C:\Users\max\Desktop\SHIT FROM ASS\FluentApi.Graph\obj\Debug\FluentApi.Graph.exe
+C:\Users\max\Desktop\SHIT FROM ASS\FluentApi.Graph\obj\Debug\FluentApi.Graph.pdb
+C:\Users\max\Desktop\SHIT FROM ASS\FluentApi.Graph\bin\Debug\nunitlite.dll

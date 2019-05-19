@@ -1,0 +1,9 @@
+C:\Users\max\Desktop\SHIT FROM ASS\DDD.Taxi\obj\Debug\Ddd.Taxi.csprojAssemblyReference.cache
+C:\Users\max\Desktop\SHIT FROM ASS\DDD.Taxi\obj\Debug\Ddd.Taxi.csproj.CoreCompileInputs.cache
+C:\Users\max\Desktop\SHIT FROM ASS\DDD.Taxi\bin\Debug\Ddd.Infrastructure.pdb
+C:\Users\max\Desktop\SHIT FROM ASS\DDD.Taxi\bin\Debug\nunit.framework.dll
+C:\Users\max\Desktop\SHIT FROM ASS\DDD.Taxi\bin\Debug\nunitlite.dll
+C:\Users\max\Desktop\SHIT FROM ASS\DDD.Taxi\obj\Debug\Ddd.Taxi.csproj.CopyComplete
+C:\Users\max\Desktop\SHIT FROM ASS\DDD.Taxi\obj\Debug\Ddd.Infrastructure.pdb
+C:\Users\max\Desktop\SHIT FROM ASS\DDD.Taxi\bin\Debug\Ddd.Infrastructure.exe
+C:\Users\max\Desktop\SHIT FROM ASS\DDD.Taxi\obj\Debug\Ddd.Infrastructure.exe

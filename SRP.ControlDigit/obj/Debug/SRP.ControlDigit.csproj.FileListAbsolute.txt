@@ -1,0 +1,10 @@
+C:\Users\max\Desktop\SHIT FROM ASS\SRP.ControlDigit\bin\Debug\SRP.ControlDigit.exe.config
+C:\Users\max\Desktop\SHIT FROM ASS\SRP.ControlDigit\bin\Debug\SRP.ControlDigit.exe
+C:\Users\max\Desktop\SHIT FROM ASS\SRP.ControlDigit\bin\Debug\SRP.ControlDigit.pdb
+C:\Users\max\Desktop\SHIT FROM ASS\SRP.ControlDigit\bin\Debug\nunit.framework.dll
+C:\Users\max\Desktop\SHIT FROM ASS\SRP.ControlDigit\obj\Debug\SRP.ControlDigit.csprojAssemblyReference.cache
+C:\Users\max\Desktop\SHIT FROM ASS\SRP.ControlDigit\obj\Debug\SRP.ControlDigit.csproj.CoreCompileInputs.cache
+C:\Users\max\Desktop\SHIT FROM ASS\SRP.ControlDigit\obj\Debug\SRP.ControlDigit.csproj.CopyComplete
+C:\Users\max\Desktop\SHIT FROM ASS\SRP.ControlDigit\obj\Debug\SRP.ControlDigit.exe
+C:\Users\max\Desktop\SHIT FROM ASS\SRP.ControlDigit\obj\Debug\SRP.ControlDigit.pdb
+C:\Users\max\Desktop\SHIT FROM ASS\SRP.ControlDigit\bin\Debug\nunitlite.dll

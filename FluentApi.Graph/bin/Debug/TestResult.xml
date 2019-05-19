@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="FluentApi.Graph.exe" fullname="C:/Users/max/Desktop/SHIT FROM ASS/FluentApi.Graph/bin/Debug/FluentApi.Graph.exe" testcasecount="9" result="Passed" start-time="2019-03-16 17:35:31Z" end-time="2019-03-16 17:35:32Z" duration="0.361778" total="9" passed="9" failed="0" inconclusive="0" skipped="0" asserts="9" random-seed="1380223107">
+  <command-line><![CDATA["C:\Users\max\Desktop\SHIT FROM ASS\FluentApi.Graph\bin\Debug\FluentApi.Graph.exe" ]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1010" name="FluentApi.Graph.exe" fullname="C:/Users/max/Desktop/SHIT FROM ASS/FluentApi.Graph/bin/Debug/FluentApi.Graph.exe" runstate="Runnable" testcasecount="9" result="Passed" start-time="2019-03-16 17:35:31Z" end-time="2019-03-16 17:35:32Z" duration="0.361778" total="9" passed="9" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="9">
+    <environment framework-version="3.6.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\max\Desktop\SHIT FROM ASS\FluentApi.Graph\bin\Debug" machine-name="MAX-LAPTOP" user="max" user-domain="MAX-LAPTOP" culture="en-US" uiculture="en-US" os-architecture="x86" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\Users\max\Desktop\SHIT FROM ASS\FluentApi.Graph\bin\Debug" />
+      <setting name="NumberOfTestWorkers" value="8" />
+    </settings>
+    <properties>
+      <property name="_PID" value="14056" />
+      <property name="_APPDOMAIN" value="FluentApi.Graph.exe" />
+    </properties>
+    <test-suite type="TestSuite" id="1011" name="FluentApi" fullname="FluentApi" runstate="Runnable" testcasecount="9" result="Passed" start-time="2019-03-16 17:35:31Z" end-time="2019-03-16 17:35:32Z" duration="0.349000" total="9" passed="9" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="9">
+      <test-suite type="TestSuite" id="1012" name="Graph" fullname="FluentApi.Graph" runstate="Runnable" testcasecount="9" result="Passed" start-time="2019-03-16 17:35:31Z" end-time="2019-03-16 17:35:32Z" duration="0.344928" total="9" passed="9" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="9">
+        <test-suite type="TestFixture" id="1000" name="DotGraphBuilder_Tests" fullname="FluentApi.Graph.DotGraphBuilder_Tests" classname="FluentApi.Graph.DotGraphBuilder_Tests" runstate="Runnable" testcasecount="9" result="Passed" start-time="2019-03-16 17:35:31Z" end-time="2019-03-16 17:35:32Z" duration="0.339760" total="9" passed="9" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="9">
+          <test-case id="1001" name="EmptyDirecterGraph" fullname="FluentApi.Graph.DotGraphBuilder_Tests.EmptyDirecterGraph" methodname="EmptyDirecterGraph" classname="FluentApi.Graph.DotGraphBuilder_Tests" runstate="Runnable" seed="885409741" result="Passed" start-time="2019-03-16 17:35:31Z" end-time="2019-03-16 17:35:31Z" duration="0.025064" asserts="1" />
+          <test-case id="1002" name="EmptyNondirecterGraph" fullname="FluentApi.Graph.DotGraphBuilder_Tests.EmptyNondirecterGraph" methodname="EmptyNondirecterGraph" classname="FluentApi.Graph.DotGraphBuilder_Tests" runstate="Runnable" seed="1088214820" result="Passed" start-time="2019-03-16 17:35:31Z" end-time="2019-03-16 17:35:31Z" duration="0.000680" asserts="1" />
+          <test-case id="1005" name="JustEdges" fullname="FluentApi.Graph.DotGraphBuilder_Tests.JustEdges" methodname="JustEdges" classname="FluentApi.Graph.DotGraphBuilder_Tests" runstate="Runnable" seed="1804377311" result="Passed" start-time="2019-03-16 17:35:31Z" end-time="2019-03-16 17:35:32Z" duration="0.263788" asserts="1" />
+          <test-case id="1006" name="JustEdgesWithAttributes" fullname="FluentApi.Graph.DotGraphBuilder_Tests.JustEdgesWithAttributes" methodname="JustEdgesWithAttributes" classname="FluentApi.Graph.DotGraphBuilder_Tests" runstate="Runnable" seed="1280696636" result="Passed" start-time="2019-03-16 17:35:32Z" end-time="2019-03-16 17:35:32Z" duration="0.005392" asserts="1" />
+          <test-case id="1003" name="JustNodes" fullname="FluentApi.Graph.DotGraphBuilder_Tests.JustNodes" methodname="JustNodes" classname="FluentApi.Graph.DotGraphBuilder_Tests" runstate="Runnable" seed="333534632" result="Passed" start-time="2019-03-16 17:35:32Z" end-time="2019-03-16 17:35:32Z" duration="0.001796" asserts="1" />
+          <test-case id="1004" name="JustNodesWithAttributes" fullname="FluentApi.Graph.DotGraphBuilder_Tests.JustNodesWithAttributes" methodname="JustNodesWithAttributes" classname="FluentApi.Graph.DotGraphBuilder_Tests" runstate="Runnable" seed="549422883" result="Passed" start-time="2019-03-16 17:35:32Z" end-time="2019-03-16 17:35:32Z" duration="0.001321" asserts="1" />
+          <test-case id="1008" name="NamesAreEscaped" fullname="FluentApi.Graph.DotGraphBuilder_Tests.NamesAreEscaped" methodname="NamesAreEscaped" classname="FluentApi.Graph.DotGraphBuilder_Tests" runstate="Runnable" seed="37915141" result="Passed" start-time="2019-03-16 17:35:32Z" end-time="2019-03-16 17:35:32Z" duration="0.000738" asserts="1" />
+          <test-case id="1007" name="NodesAreBeforeEdges" fullname="FluentApi.Graph.DotGraphBuilder_Tests.NodesAreBeforeEdges" methodname="NodesAreBeforeEdges" classname="FluentApi.Graph.DotGraphBuilder_Tests" runstate="Runnable" seed="844276623" result="Passed" start-time="2019-03-16 17:35:32Z" end-time="2019-03-16 17:35:32Z" duration="0.000359" asserts="1" />
+          <test-case id="1009" name="WithAcceptsEmptyAction" fullname="FluentApi.Graph.DotGraphBuilder_Tests.WithAcceptsEmptyAction" methodname="WithAcceptsEmptyAction" classname="FluentApi.Graph.DotGraphBuilder_Tests" runstate="Runnable" seed="333436351" result="Passed" start-time="2019-03-16 17:35:32Z" end-time="2019-03-16 17:35:32Z" duration="0.000375" asserts="1" />
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
